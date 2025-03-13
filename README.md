@@ -16,7 +16,7 @@
     </p>
     <ul>
       <li><b>Example Output:</b></li>
-      <li><img src= "github.com/user-attachments/assets/81a67497-09cd-4bf7-8335-c8c0fdf65cdd"></li> 
+      <img src = " https://github.com/user-attachments/assets/966566e0-1099-4eb1-a003-507d0077ae33"
 
 </ul>
 
