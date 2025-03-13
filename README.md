@@ -14,7 +14,10 @@
             <li><b>Sequence.js-</b> Takes user input, selects the middle number, and arranges the sequence accordingly.</li>
         </ul>
     </p>
-    
+    <h3>Example Outputs</h3>
+    <img src = "https://github.com/user-attachments/assets/61049681-642d-471f-8b2a-ec3731b6446a">
+   
+
 </body>
 </html>
 
